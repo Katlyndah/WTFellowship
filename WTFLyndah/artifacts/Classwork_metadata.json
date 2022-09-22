@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "getresult",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Lyndah/Katdifference.sol": "Classwork"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Lyndah/Katdifference.sol": {
+			"keccak256": "0x87f59c0fc453a16091b855276a4970099a40d419f957ace8e9502b2b632add95",
+			"urls": [
+				"bzz-raw://e3ab7bcc2ddc431c577cfcb250822e4ff0d9455556ac752c0a36d68ca56b1fc5",
+				"dweb:/ipfs/QmVhQqXKVGj718Z9QaT73vDQFuhevQPfFZtN882KdUMFm4"
+			]
+		}
+	},
+	"version": 1
+}

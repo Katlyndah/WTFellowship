@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"WTFLyndah/Katustructs.sol": "Katu"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"WTFLyndah/Katustructs.sol": {
+			"keccak256": "0xf05a7376eafa89edb16f4ed2cdd19b7334083e15bfb118f076e1c000b55e656b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ce20515a0ad2846e78499cf6213ba36abfac65b7778e37e62e7aac2e4ebae1a7",
+				"dweb:/ipfs/QmVprNE4p5P5Jp2w6BcaM1ZZzCzrHx87J8YaxXhGMmGH8g"
+			]
+		}
+	},
+	"version": 1
+}

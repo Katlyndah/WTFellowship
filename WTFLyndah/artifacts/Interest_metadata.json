@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "getresult",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Lyndah/Interest.sol": "Interest"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Lyndah/Interest.sol": {
+			"keccak256": "0xa83278815a84c11276f44f6902d3e607a2dd91d10971b2e814988fcb20c21329",
+			"urls": [
+				"bzz-raw://61bd7c37a7eb9cbee599802b4210216ea099049d5ee36ecc670819b7016c7715",
+				"dweb:/ipfs/QmeTGsNW4umMhaNyvvuZEdT6sZv9YNYVYMq6KaxvNbG9eF"
+			]
+		}
+	},
+	"version": 1
+}

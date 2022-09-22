@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"WTFLyndah/Katuarrays.sol": "Tech4dev"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"WTFLyndah/Katuarrays.sol": {
+			"keccak256": "0x790894310e671e756953a4f29b6f827cf21431e01402f85cb84436ff950b8b8f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b0e935e238ad4f618ebd1ba79471c95b852d356da728e07ed873318088a8101e",
+				"dweb:/ipfs/QmfDvtFxT9bwM5aXyDgLA7BwRWiMn3Ej1ceAT1HKqozYHi"
+			]
+		}
+	},
+	"version": 1
+}
