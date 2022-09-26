@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "getresult",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Lyndah/Katuadd.sol": "Katuadd"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Lyndah/Katuadd.sol": {
+			"keccak256": "0xb9a11d575ee4567478a7a445851ca972a75eee979d5954dd8f54ac28c17fc10c",
+			"urls": [
+				"bzz-raw://ce3be8eb53e419bb1a4b53e2e89d5c49497a957774bd0f670407d4ad16d60f2d",
+				"dweb:/ipfs/QmQchtetZkWG6BFpGw6DpA4T3HeGFazZo4soKEkwaE8avo"
+			]
+		}
+	},
+	"version": 1
+}
