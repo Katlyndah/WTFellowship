@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "deleteArray",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "lyn",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"12thOct/classwork3.sol": "techtech"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"12thOct/classwork3.sol": {
+			"keccak256": "0x40b7c02105d88b560326dce774bebac1d7594f99013bbd0bca2a5cb39b69e327",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://411d1dcf9e08dd7be6dc92b727933b548beee23787b771512718744c43899a14",
+				"dweb:/ipfs/Qma4oudJwv6cR3ppRC5DMUzmza6Aek3aJGonRDZxSXkDAf"
+			]
+		}
+	},
+	"version": 1
+}

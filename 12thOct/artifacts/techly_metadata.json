@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "AddNumber",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "nums",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"12thOct/classwork.sol": "techly"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"12thOct/classwork.sol": {
+			"keccak256": "0xecf225ac9860d763b2fa74a91e9bdc4a449fa342597641148cb47b466ac7c952",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://48befbb1413253cdb1fcff89df34fbeaa0b596e7c48a2717d02edc6461aab5f4",
+				"dweb:/ipfs/QmWqeGe4Xkcew8142hhMMRTstKmdSP3QZ4n2MyfZ9GRFC8"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,83 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_Title",
+						"type": "string"
+					}
+				],
+				"name": "Insert",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "List",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "Title",
+						"type": "string"
+					},
+					{
+						"internalType": "bool",
+						"name": "Completed",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"13thOct/Todo.sol": "Katu4dev"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"13thOct/Todo.sol": {
+			"keccak256": "0x6436270853fd000c58138506082f8707666e190dd56da5c3cd374db535172ed4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://12d7366b92a3666a015beb59dd6c019f99cf5ff2418419a19f8a408745f323e7",
+				"dweb:/ipfs/QmVExysXR1R1HhLJzxXX2GjxLr4Ct2X9fSuQN4NCbi3MX7"
+			]
+		}
+	},
+	"version": 1
+}

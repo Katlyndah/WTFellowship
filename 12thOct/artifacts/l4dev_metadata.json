@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "AddNumber",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "nums",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"12thOct/advancedarrays.sol": "l4dev"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"12thOct/advancedarrays.sol": {
+			"keccak256": "0xd12bf12e19c76b67a4e8bc26908fdc5b016e7b6f6b1a46acf8a01a328a0e3b25",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ce62f646fd02cd93c492886bc887e5b0d9347af0e76b18cb92416ae848a7bf2e",
+				"dweb:/ipfs/QmNQR1HvLHR744qvZVfBBX5m8jZLnsXSAPGXPwVmrEY9kR"
+			]
+		}
+	},
+	"version": 1
+}
