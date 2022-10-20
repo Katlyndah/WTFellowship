@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "Add",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "Sub",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "University",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"MiniprojectOctober/Question3.sol": "Microsoft"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"MiniprojectOctober/Question3.sol": {
+			"keccak256": "0xe79154ff7e0044f7c4a6db1956aa05e82918a40fe981ce322ad2592ef5542006",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8c98ac69b9bd68523bbb24c42589f31ee40d6ece97f041947b3f6bdc107b17aa",
+				"dweb:/ipfs/QmeCnX528v7bLNULckhuLH134LMUkLpNsVDa6uAwAh3WSz"
+			]
+		}
+	},
+	"version": 1
+}

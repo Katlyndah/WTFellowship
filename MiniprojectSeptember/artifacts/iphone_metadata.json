@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num",
+						"type": "uint256"
+					}
+				],
+				"name": "phone",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"MiniprojectOctober/Question5.sol": "iphone"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"MiniprojectOctober/Question5.sol": {
+			"keccak256": "0x73ec86f9f63a4d7226a93b696a196fa0036b3eee2a8195bc492021c4b3cbfd0d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a1f3a912ed240ef0443a3257c90ab4af04ae7d72f3487e349e942d14bdd3cfc7",
+				"dweb:/ipfs/QmcxsNhwp2MoXw5WSdxwV2cnRwWZFoGA4np6HMVnwpDD1F"
+			]
+		}
+	},
+	"version": 1
+}

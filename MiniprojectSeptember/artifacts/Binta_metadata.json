@@ -1,0 +1,138 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "biodata",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "age",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "class",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "homeaddress",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "sex",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "height",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "genotype",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_age",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "_class",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_homeaddress",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_sex",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_height",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "_genotype",
+						"type": "string"
+					}
+				],
+				"name": "student",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"MiniprojectOctober/Question1.sol": "Binta"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"MiniprojectOctober/Question1.sol": {
+			"keccak256": "0x0ca10a3d06bd0bfb4cd2f735fdff5c15434ffb964ede714e87149c9a6bcdcde6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f93813bc924ebed7afdf91dec754d87435f84ca96419c95020f4623a4f319fe3",
+				"dweb:/ipfs/QmNooxVyqm4QcLyhh4kcPdugoz2o3EiBzmPtr8aUWWVFxi"
+			]
+		}
+	},
+	"version": 1
+}
